@@ -333,6 +333,17 @@
                 pointRadius: 5,
                 pointBorderColor: '#847DFA',
                 pointBackgroundColor: '#fff',
+            },
+            {
+                data: [0, 25, 67, 19, 95, 11],
+                label: "iPhone Z",
+                backgroundColor: 'transparent',
+                borderColor: 'red',
+                borderWidth: 2,
+                pointStyle: 'circle',
+                pointRadius: 5,
+                pointBorderColor: '#847DFA',
+                pointBackgroundColor: '#fff',
             }]
         },
         options: {

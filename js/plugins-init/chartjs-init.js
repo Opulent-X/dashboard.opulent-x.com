@@ -95,7 +95,7 @@
             type: 'line',
             defaultFontFamily: 'Montserrat',
             datasets: [{
-                label: "Clothes",
+                label: "OPXT",
                 data: [0, 10, 20, 10, 25, 15, 150],
                 backgroundColor: 'transparent',
                 borderColor: '#7571F9',
@@ -106,7 +106,7 @@
                 pointBackgroundColor: '#7571F9',
 
             }, {
-                label: "Foods",
+                label: "OPXV",
                 data: [0, 30, 10, 60, 50, 63, 10],
                 backgroundColor: 'transparent',
                 borderColor: '#4d7cff',
@@ -116,7 +116,7 @@
                 pointBorderColor: 'transparent',
                 pointBackgroundColor: '#4d7cff',
             }, {
-                label: "Electronics",
+                label: "OXYN",
                 data: [0, 50, 40, 20, 40, 79, 20],
                 backgroundColor: 'transparent',
                 borderColor: '#173e43',
