@@ -197,15 +197,19 @@
   //Line chart with tooltips
   
   new Chartist.Line('#line-chart-tooltips', {
-    labels: ['1', '2', '3', '4', '5', '6'],
+    labels: ['Q1-2002', 'Q2-2022', 'Q3-2022', 'Jan 2023', 'Mar 2023', 'Jun 2023'],
     series: [
       {
-        name: 'Fibonacci sequence',
+        name: 'Project Valuation',
         data: [1, 2, 3, 5, 8, 13]
       },
       {
-        name: 'Golden section',
+        name: 'Actual Valuation',
         data: [1, 1.618, 2.618, 4.236, 6.854, 11.09]
+      },
+      {
+        name: 'Expected Valuation',
+        data: [2, 2.618, 3.618, 5.236, 8.854, 13.09]
       }
     ]
   },
